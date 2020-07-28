@@ -14,7 +14,9 @@ if ( isset($_POST['name']) && isset($_POST['email'])
 }
 ?>
 <html>
-<head></head><body>
+<head>
+	<title>Saikat Roy</title>
+</head><body>
 <p>Add A New User</p>
 <form method="post">
 <p>Name:
